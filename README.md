@@ -1,4 +1,4 @@
-# week1
+# week 1
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
